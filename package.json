@@ -4,7 +4,8 @@
   "description": "",
   "main": "language_spoken.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest __tests__/",
+    "test-coverage": "jest __tests__/ --coverage",
     "start": "node index.js"
   },
   "keywords": [],
