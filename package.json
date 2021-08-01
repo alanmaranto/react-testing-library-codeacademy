@@ -1,0 +1,20 @@
+{
+  "name": "React-Testing-Library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "language_spoken.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@babel/core": "^7.14.8",
+    "@babel/preset-env": "^7.14.8",
+    "@babel/preset-react": "^7.14.5",
+    "@babel/register": "^7.14.5",
+    "axios": "^0.21.1"
+  }
+}
